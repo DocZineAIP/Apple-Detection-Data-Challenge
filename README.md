@@ -24,4 +24,6 @@ DR. Mouad Zine EL Abidine     LARIS, Université d'Angers - France
 PU David ROUSSEAU               Laris, Université d'Angers - France
 
 
-https://codalab.lisn.upsaclay.fr/competitions/743
+LINK: https://codalab.lisn.upsaclay.fr/competitions/743
+
+https://github.com/DocZineAIP/Apple-Detection-Data-Challenge/issues/2#issue-1333768435
