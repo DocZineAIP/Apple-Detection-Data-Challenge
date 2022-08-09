@@ -26,4 +26,5 @@ PU David ROUSSEAU               Laris, Université d'Angers - France
 
 LINK: https://codalab.lisn.upsaclay.fr/competitions/743
 
-https://github.com/DocZineAIP/Apple-Detection-Data-Challenge/issues/2#issue-1333768435
+![logos](https://user-images.githubusercontent.com/69423919/183757099-7abab775-7192-4dbe-a858-ff243faa39db.png)
+
